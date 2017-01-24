@@ -1,7 +1,7 @@
 {
-  "name": "md5-weekday",
+  "name": "md5-today-cli",
   "version": "1.0.0",
-  "description": "MD5 weekday names",
+  "description": "MD5 representation of todays weekday name",
   "bin": {
     "md5-today": "cli.js"
   },
@@ -22,7 +22,7 @@
   "author": {
     "name": "Milos Bejda",
     "email": "mbejda@live.com",
-    "url": "mbejda.com"
+    "url": "https://mbejda.com"
   },
   "license": "MIT",
   "bugs": {
@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/mbejda/md5-weekday#readme",
   "dependencies": {
-    "md5": "2.2.1",
+    "md5": "^2.2.1",
     "weekday": "3.0.1"
   }
 }
