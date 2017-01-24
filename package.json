@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/mbejda/md5-weekday.git"
+    "url": "git@github.com:mbejda/md5-today-cli.git"
   },
   "files": [
     "cli.js"
