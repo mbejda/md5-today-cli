@@ -1,0 +1,36 @@
+{
+  "name": "md5-weekday",
+  "version": "1.0.0",
+  "description": "MD5 weekday names",
+  "bin": {
+    "md5-today": "cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mbejda/md5-weekday.git"
+  },
+  "files": [
+    "cli.js"
+  ],
+  "keywords": [
+    "weekday",
+    "week",
+    "name",
+    "week",
+    "md5"
+  ],
+  "author": {
+    "name": "Milos Bejda",
+    "email": "mbejda@live.com",
+    "url": "mbejda.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mbejda/md5-weekday/issues"
+  },
+  "homepage": "https://github.com/mbejda/md5-weekday#readme",
+  "dependencies": {
+    "md5": "2.2.1",
+    "weekday": "3.0.1"
+  }
+}
